@@ -1,7 +1,7 @@
 ENTORNO
 
-Ubuntu 17.10
-Oracle Java SDK 1.8.0_71
+Ubuntu 17.10 </br>
+Oracle Java SDK 1.8.0_71 </br>
 Apache Hadoop 2.9.0
 
 INSTALACIÓN Y CONFIGURACIÓN DE MAHOUT
