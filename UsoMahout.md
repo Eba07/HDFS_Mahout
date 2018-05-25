@@ -14,10 +14,10 @@ Seguimos los siguientes pasos:
   $ sudo mv apache-mahout-distribution-0.13.0 /home/bigdata/mahout
 -	Editar la configuración añadiendo las siguientes líneas al fichero ~/.bashrc y ejecutar los cambios:
 ```
-\# MAHOUT VARIABLES START	
+# MAHOUT VARIABLES START	
 export MAHOUT_HOME=/home/bigdata/mahout
 export PATH=$PATH:$MAHOUT_HOME/bin
-\# MAHOUT VARIABLES END
+# MAHOUT VARIABLES END
 ```
 
 $ cd /home/bigdata/mahout
